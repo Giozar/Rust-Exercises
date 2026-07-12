@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "cadenas-binarias"
+name = "programacion-estructurada"
 version = "0.1.0"

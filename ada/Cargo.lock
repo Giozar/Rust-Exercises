@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "transiciones-binarias"
+name = "ada"
 version = "0.1.0"

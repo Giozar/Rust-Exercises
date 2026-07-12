@@ -1,11 +1,10 @@
 use std::io;
 
-fn main() {
+pub fn transiciones_binarias() {
     let mut data = String::new();
-    io::stdin().read_line(&mut data).ok().expect("No se pudo leer el dato");
+    io::stdin().read_line(&mut data).expect("No se pudo leer el dato");
 
     let n: u128 = data.trim().parse().expect("No es un número");
-
     println!("{}", transiciones(n));
 }
 
