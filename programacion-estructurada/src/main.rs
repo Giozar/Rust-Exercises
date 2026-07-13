@@ -15,5 +15,6 @@ fn main() {
     // operaciones_basicas::evaluando_formulas_en_sucesion::evaluando_formulas_en_sucesion();
 
     //toma_de_decisiones::cuantos_valen_7::cuantos_valen_7();
+    toma_de_decisiones::triangulo_equilatero::triangulo_equilatero();
     
 }
