@@ -6,9 +6,11 @@ mod toma_de_decisiones;
 
 fn main() {
     // Descomenta el algoritmo que quieras probar:
-    
+
     // entradas_y_salidas::hola_mundo::hola_mundo();
-    
+    entradas_y_salidas::leer_e_imprimir_1::leer_e_imprimir_1();
+    entradas_y_salidas::leer_e_imprimir_2::leer_e_imprimir_2();
+
     // operaciones_basicas::conversiones_temperaturas::conversiones_temperaturas();
     // operaciones_basicas::calculos_mentales::calculos_mentales();
     // operaciones_basicas::programando_formulas_raras::prgramando_formulas_raras();
@@ -16,7 +18,7 @@ fn main() {
 
     //toma_de_decisiones::cuantos_valen_7::cuantos_valen_7();
     // toma_de_decisiones::triangulo_equilatero::triangulo_equilatero();
-    toma_de_decisiones::toma_de_decisiones::toma_de_decisiones();
+    // toma_de_decisiones::toma_de_decisiones::toma_de_decisiones();
     
     
 }
