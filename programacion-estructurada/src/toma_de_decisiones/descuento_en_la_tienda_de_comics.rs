@@ -22,19 +22,19 @@ pub fn descuento_en_comics() {
 
         if c1  > c2 {
             println!("Ademas, habra descuento especial para el primer comprador");
-            println!("{} {}", c1 - (c1o*0.10), c2 );
+            println!("{:.2} {:.2}", c1 - (c1o*0.10), c2 );
 
         } else if c2 > c1 {
             println!("Ademas, habra descuento especial para el segundo comprador");
-            println!("{} {}", c1, c2 - (c2o*0.10) );
+            println!("{:.2} {:.2}", c1, c2 - (c2o*0.10) );
             
         } else {
-            println!("{} {}", c1, c2 );
+            println!("{:.2} {:.2}", c1, c2 );
         }
 
     } else {
         println!("No habra descuento :(");
-        println!("{} {}", c1, c2);
+        println!("{:.2} {:.2}", c1, c2);
     }
 
 }
