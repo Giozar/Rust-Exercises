@@ -8,8 +8,8 @@ fn main() {
     // Descomenta el algoritmo que quieras probar:
 
     // entradas_y_salidas::hola_mundo::hola_mundo();
-    entradas_y_salidas::leer_e_imprimir_1::leer_e_imprimir_1();
-    entradas_y_salidas::leer_e_imprimir_2::leer_e_imprimir_2();
+    // entradas_y_salidas::leer_e_imprimir_1::leer_e_imprimir_1();
+    // entradas_y_salidas::leer_e_imprimir_2::leer_e_imprimir_2();
 
     // operaciones_basicas::conversiones_temperaturas::conversiones_temperaturas();
     // operaciones_basicas::calculos_mentales::calculos_mentales();
@@ -19,6 +19,9 @@ fn main() {
     //toma_de_decisiones::cuantos_valen_7::cuantos_valen_7();
     // toma_de_decisiones::triangulo_equilatero::triangulo_equilatero();
     // toma_de_decisiones::toma_de_decisiones::toma_de_decisiones();
+
+    toma_de_decisiones::descuento_en_la_tienda_de_comics::descuento_en_comics();
+    
     
     
 }
