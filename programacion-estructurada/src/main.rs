@@ -20,7 +20,9 @@ fn main() {
     // toma_de_decisiones::triangulo_equilatero::triangulo_equilatero();
     // toma_de_decisiones::toma_de_decisiones::toma_de_decisiones();
 
-    toma_de_decisiones::descuento_en_la_tienda_de_comics::descuento_en_comics();
+    // toma_de_decisiones::descuento_en_la_tienda_de_comics::descuento_en_comics();
+
+    toma_de_decisiones::el_perrito_que_quiere_hueso::el_perrito_que_quiere_hueso();
     
     
     
